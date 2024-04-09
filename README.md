@@ -1,7 +1,15 @@
-## Hey! Eu sou a Mirian Prates
+## Hey! Sou Mirian Prates
+
+<h3> Desenvolvedora Front-End</h3>
+
+<p>
+Estudante de Análise e Desenvolvimento de Sistemas na FIAP e entusiasta de front-end <br>
+ Sempre buscando aprender novas técnicas e aprimorar minhas habilidades
+</p>
+
  <div>
   <a href="https://github.com/mirianprates">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirianprates&layout=compact&langs_count=16&theme=dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirianprates&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mirian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
